@@ -1,0 +1,10 @@
+;------------------------------------------
+; D3D9 module definition file for Windows
+;------------------------------------------
+
+LIBRARY
+DESCRIPTION "Direct3D 9 Wrapper"
+
+EXPORTS
+  Direct3DCreate9  @1
+  
